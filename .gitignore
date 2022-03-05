@@ -1,0 +1,21 @@
+## IntelliJ IDEA Module
+*.iml
+/.idea
+
+## Gradle files
+/build
+.gradle
+.externalNativeBuild
+
+## Android Studio captures folder
+/captures
+
+## C++ file
+.cxx
+
+## Local SDK configuration file
+local.properties
+/local.properties
+
+## MacOS System file
+.DS_Store
